@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite the preprint.
+title: Explainable AI for Automated Student Feedback
+authors:
+  - family-names: Gupta
+    given-names: Bhavya
+doi: 10.5281/zenodo.17621347
+url: https://github.com/bhavyagupta03/explainable-ai-student-feedback
+license: MIT
+date-released: 2025-11-16
